@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "name": "SREECHAND C",
+      "salary": "55000",
+      "company": "GOOGLE",
+      "id": 1
+    },
+    {
+      "name": "ZANNIE VADAKKAN",
+      "salary": "50000",
+      "company": "AMAZON",
+      "id": 2
+    },
+    {
+      "name": "SAM",
+      "salary": "40000",
+      "company": "IBM",
+      "id": 3
+    },
+    {
+      "name": "VARUN",
+      "salary": "80000",
+      "company": "TECH MAHINDRA",
+      "id": 4
+    },
+    {
+      "name": "GAYATHRI",
+      "salary": "45000",
+      "company": "SAMSUNG",
+      "id": 5
+    }
+  ]
+}
